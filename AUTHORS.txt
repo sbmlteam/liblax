@@ -1,0 +1,12 @@
+                 LibLAX was primarily developed by
+ 
+            Sarah Keating and Frank Bergmann
+                  and Michael Hucka
+			
+			based on code originally developed by Ben Bornstein
+
+         For more information about libLAX, contact:
+
+                            The SBML Team
+                         http://www.sbml.org/
+                     mailto:sbml-team@caltech.edu
